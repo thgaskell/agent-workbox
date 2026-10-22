@@ -1,0 +1,9 @@
+# The agent's work and its report, written by ./run.sh
+work/
+.outputs/REPORT.md
+.outputs/logs/
+
+# Your task. It's committed once as a template; ./run.sh then runs
+# `git update-index --skip-worktree AGENTS.local.md` so your edits are never
+# committed. This line only matters if the file is ever removed from git.
+AGENTS.local.md
